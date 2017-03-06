@@ -5,6 +5,7 @@
 # unzip it, 
 ##########################################################
 
+#youpi
 
 echo Creating project directory structure
 sleep 2
